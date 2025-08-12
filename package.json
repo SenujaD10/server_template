@@ -1,5 +1,5 @@
 {
-  "name": "express_authentication",
+  "name": "server_template",
   "version": "1.0.0",
   "description": "",
   "main": "./src/index.ts",
