@@ -1,4 +1,4 @@
-🛠️ server_template
+## 🛠️ server_template
 
 A clean, scalable Express.js server template with authentication, error handling, and modular routing. Built for clarity, maintainability, and developer experience.
 
